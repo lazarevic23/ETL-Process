@@ -1,2 +1,2 @@
 # ETL-Process
-The project is from the course Data warehouse design.
+The project is from the course Data Warehouse Design.
